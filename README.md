@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Maksym.<br>I'm a Senior Fullstack Developer with 6+ years of overall experience.
+Hi, my name is Maksym.<br>I'm a Senior Fullstack Developer with 9+ years of overall experience.
 
 
 ## 🌐 Socials:
